@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Python Fundamentals",
+        "category": "Programming",
+        "level": "Beginner",
+        "description": "Learn Python programming from scratch",
+        "skills": "Python, Programming Basics",
+        "prerequisites": "None"
+    },
+    {
+        "id": 2,
+        "name": "Data Science with Python",
+        "category": "Data Science",
+        "level": "Intermediate",
+        "description": "Data analysis using Pandas and NumPy",
+        "skills": "Pandas, NumPy, Data Analysis",
+        "prerequisites": "Python Fundamentals"
+    },
+    {
+        "id": 3,
+        "name": "Machine Learning Basics",
+        "category": "AI",
+        "level": "Intermediate",
+        "description": "Introduction to ML algorithms",
+        "skills": "Scikit-learn, ML Algorithms",
+        "prerequisites": "Data Science with Python"
+    },
+    {
+        "id": 4,
+        "name": "Deep Learning",
+        "category": "AI",
+        "level": "Advanced",
+        "description": "Neural networks and deep learning",
+        "skills": "TensorFlow, Keras, Neural Networks",
+        "prerequisites": "Machine Learning Basics"
+    },
+    {
+        "id": 5,
+        "name": "Web Development",
+        "category": "Web",
+        "level": "Intermediate",
+        "description": "Full stack web development",
+        "skills": "React, Spring Boot, REST APIs",
+        "prerequisites": "Python Fundamentals"
+    },
+    {
+        "id": 6,
+        "name": "Cloud Computing",
+        "category": "DevOps",
+        "level": "Intermediate",
+        "description": "AWS and cloud fundamentals",
+        "skills": "AWS, Cloud Architecture",
+        "prerequisites": "Python Fundamentals"
+    },
+    {
+        "id": 7,
+        "name": "DevOps Engineering",
+        "category": "DevOps",
+        "level": "Advanced",
+        "description": "CI/CD, Docker, Kubernetes",
+        "skills": "Docker, Kubernetes, Jenkins",
+        "prerequisites": "Cloud Computing"
+    },
+    {
+        "id": 8,
+        "name": "Data Engineering",
+        "category": "Data",
+        "level": "Advanced",
+        "description": "Big data and ETL pipelines",
+        "skills": "Spark, Hadoop, ETL",
+        "prerequisites": "Data Science with Python"
+    },
+    {
+        "id": 9,
+        "name": "Frontend Development",
+        "category": "Web",
+        "level": "Beginner",
+        "description": "HTML, CSS, JavaScript",
+        "skills": "HTML, CSS, JavaScript",
+        "prerequisites": "None"
+    },
+    {
+        "id": 10,
+        "name": "Mobile Development",
+        "category": "Mobile",
+        "level": "Intermediate",
+        "description": "Flutter mobile app development",
+        "skills": "Flutter, Dart, Firebase",
+        "prerequisites": "Python Fundamentals"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Rahul Sharma",
+        "background": "Computer Science graduate",
+        "goals": "I want to become a Data Scientist and work with AI",
+        "skills": "Python, SQL, C++"
+    },
+    {
+        "name": "Priya Patel",
+        "background": "Self-taught developer with 2 years experience",
+        "goals": "I want to become a Full Stack Web Developer",
+        "skills": "HTML, CSS, JavaScript, React"
+    },
+    {
+        "name": "Amit Kumar",
+        "background": "Cloud Engineer with 3 years experience",
+        "goals": "I want to become a DevOps Engineer",
+        "skills": "AWS, Linux, Docker, Python"
+    },
+    {
+        "name": "Sneha Reddy",
+        "background": "MBA in Marketing",
+        "goals": "I want to transition into Data Analytics",
+        "skills": "Excel, SQL, Basic Python"
+    }
+]
